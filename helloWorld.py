@@ -1,2 +1,2 @@
-string = "Git is Awesome!"
-print(string)
+string_question = input("Enter anything: ")
+print(string_question)
