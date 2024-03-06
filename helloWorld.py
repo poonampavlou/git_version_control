@@ -1,3 +1,3 @@
 # Asking the user a question
-string_question = input("Enter anything: ")
-print(string_question)
+user_question = input("Enter anything: ")
+print(user_question)
